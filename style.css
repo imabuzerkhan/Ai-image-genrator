@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.iamge-genrator{
+  height: 40vh;
+  background: url("https://plus.unsplash.com/premium_photo-1677094310918-cc302203b21c?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YWklMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D");
+  background-size: cover;
+  background-position: center;
+}
+
+.iamge-genrator .content{
+  color: black;
+  padding: 0 15px;
+  max-width: 760px;
+  text-align: center;
+}
